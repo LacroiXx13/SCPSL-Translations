@@ -2,16 +2,16 @@ S.C.P.-173
 Personnel Classe-D
 Spectateur
 S.C.P.-106
-Scientifique du Renard aux Neuf-Queues
+Scientifique du "Nine Tailed Fox"
 S.C.P.-049
 Scientifique
 S.C.P.-079
 Insurgé du Chaos
 S.C.P.-096
 S.C.P.-049-2
-Lieutenant du Renard aux Neuf-Queues
-Commandant du Renard aux Neuf-Queues
-Cadet du Renard aux Neuf-Queues
+Lieutenant du "Nine Tailed Fox"
+Commandant du "Nine Tailed Fox"
+Cadet du "Nine Tailed Fox"
 TUTORIEL
 Garde du Site
 S.C.P.-939-53

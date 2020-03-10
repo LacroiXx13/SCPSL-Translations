@@ -1,9 +1,9 @@
 Capacité introuvable : L'ID associée avec cette capacité est inexistante.
-Sprint : Augmente votre vitesse de déplacement, mais augmente aussi vos bruits de pas.
+Sprint : Augmente votre vitesse de déplacement, mais amplifie aussi vos bruits de pas.
 Furtivité : Vos déplacements deviennent silencieux, mais coûte beaucoup de perte en vitesse.
-Inventaire : Ouvrez votre inventaire et sélectionnez un objet que vous avez trouvé avec un Clic Droit, ou jetez-le avec un Clic Gauche.
+Inventaire : Ouvrez votre inventaire et sélectionnez un objet que vous avez trouvé avec un clic droit, ou jetez-le avec un clic gauche.
 Inarmé : Vous n'avez rien sur vous, donc trouvez quelque-chose, peu importe ce que ce soit.
-Carte d'accès : Vous avez sur vous une carte d'accès, certainement pas la meilleure mais tout de même mieux que rien.
+Carte d'accès : Vous avez sur vous une carte d'accès, certainement pas la meilleure mais c'est tout de même mieux que rien.
 Réponse basique : Vous êtes équippé d'un P.M., d'une grenade, une radio, un désarmeur et une carte d'accès.
 Armé & dangereux : Vous avez été affecté une mitrailleuse légère, un outil de piratage, et un kit de premier secours.
 Vitesse fulgurante : Quand aucun humain ne peut vous voir, vous vous déplacez très rapidement. Si vous êtes directement observé par un humain, vous ne pouvez ni bouger, ni attaquer, toutefois tous les humains cligneront simultanément toutes les quelques secondes, vous donnant ainsi un instant pour réagir.
@@ -13,17 +13,17 @@ Corrosion : Vous pouvez franchir les portes en marchant à travers elles.
 Chant du Cygne : Vous ne subissez presque aucun dégâts des balles, mais vous pouvez vous faire instantanément reconfiner via un sacrifice humain dans l'enceinte de votre chambre de confinement.
 Dimension de poche : Vous pouvez capturer un humain en le téléportant dans votre dimension de poche ce qui le tuera rapidement. Les humains doivent choisir la bonne sortie, sans quoi ils meurent.
 Timide : En temps normal, vous bougez lentement et vous ne pouvez attaquer, tout en émettant des pleurs discrets. Si des humains vous regardent suffisamment longtemps, vous vous figez sur place pendant cinq secondes, puis vous entrez en Rage.
-Rage anti-sociale : Enragé, vous bougez extrêmement rapidement en criant fort. La Rage dure environ vingt secondes ; suivant son expiration, vous arrêtez de pleurer et vous ne pouvez plus rentrer en Rage pendant une courte durée.\nEnragé, cliquer ou maintenir ce bouton tuera instantanément des humains à courte portée.
+Rage anti-sociale : Enragé, vous bougez extrêmement rapidement en criant fort. La Rage dure environ vingt secondes ; suivant son expiration, vous arrêtez de pleurer et vous ne pouvez plus rentrer en Rage pendant une courte durée.\nEnragé, cliquer ou maintenir ce bouton tuera instantanément les humains à courte portée.
 Saccage : Enragé, interagir avec des portes les détruiront.
 Ultra-sensible : Vous ne pouvez pas voir des humains sauf si ils courent, vous heurtent, ou tirent avec une arme à proximité de vous.
 Prédateur : Vos pas sont silencieux. Maintenir la touche assignée augmente votre vitesse, mais rendra vos déplacements audibles.
 Imitation : Vous pouvez parler à tous les joueurs proches de vous, y compris les humains.
 Morsure : Attaque un humain à portée de mêlée, infligeant instantanément de lourds dégâts.
 Antidote : Touche un humain à courte portée, le tuant instantanément
-Le Remède : Réanime un humain récemment tué. Les humains "soignés" jouent en tant que zombies avec un mouvement rapide et une faible santé.\nIl n'y a aucune limite au nombre d'humains pouvant être réanimés.
+Le Remède : Réanime un humain récemment tué. Les humains "soignés" jouent en tant que zombies avec une vitesse de déplacement rapide et une faible santé.\nIl n'y a aucune limite au nombre d'humains pouvant être réanimés.
 Frappe : Attaque un humain et inflige un nombre de dégâts modéré contre eux.
-Ouverture/Fermeture de portes : Vous pouvez interagir avec des portes pour les ouvrir et les fermer pour 5 ÉA. Vous pouvez aussi les verrouiller, ce qui draine votre ÉA mais empêche n'importe qui de les ouvrir ou de les fermer jusqu'à que vous leviez le verrouillage ou tombiez à court de ÉA.
-Surchage de Tesla : Vous pouvez activer une porte Tesla pour 50 ÉA pour la déclencher instantanément, tuant ainsi tout joueur à l'intérieur ou proche d'elle.
+Ouverture/Fermeture de porte : Vous pouvez interagir avec des portes pour les ouvrir et les fermer pour 5 É.A.. Vous pouvez aussi les verrouiller, ce qui draine votre É.A. mais empêche n'importe qui de les ouvrir ou de les fermer jusqu'à que vous leviez le verrouillage ou tombiez à court de ÉA.
+Surchage de porte Tesla : Vous pouvez activer une porte Tesla pour 50 É.A. pour la déclencher instantanément, tuant ainsi tout joueur à l'intérieur ou proche d'elle.
 Verrouillage : À partir du Niveau d'Accès 3, vous pouvez interagir avec certaines pièces pour les verrouiller, éteignant toute lumière et fermant toute porte. À l'intérieur d'une pièce verrouillée, les humains ne peuvent pas voir S.C.P.-173.
 Virtuellement indestructible : Cinq générateurs apparaissent à travers la Zone de Confinement Blindée. Si ils sont tous déverrouillés et activés, vous êtes reconfiné.\nLes générateurs ont une séquence de compte à rebours que n'importe quel joueur peut interrompre en appuyant sur le bouton "ANNULER" sur le générateur.
 Brise-nuque : Maintenez ou cliquez pour tordre le cou d'un humain, le tuant instantanément tant qu'il ne vous voit pas ou qu'il cligne des yeux.
