@@ -1,89 +1,91 @@
-JOUER
+REJOINDRE
 FERMER
-QUALITÉ DES OMBRES
+RÉSOLUTION DES OMBRES
 PARAMÈTRES
 BASÉ SUR <i>SCP: CONTAINMENT BREACH</i>
 RETOUR
-LANGUE
+LANGAGE
 ANTICRÉNELAGE
-Changer les détails :\n- NOMBRE DE PIXELS DE LUMIÈRE: nombre maximum de sources lumineuses par pixel.\n- SYNC. VERTICALE: Synchronise la fréquence de rafraîchissement du périphérique d'affichage.\n- ANTICRÉNELAGE : Lisse les pixels pour éviter l'effet escalier.
-<size=36>REJOINDRE UNE PARTIE</size>
-POST\n<size=25>TRAITEMENT</size>
+Modifiez les détails :\n- NOMBRE DE LUMIÈRES SUR PIXELS - Nombre maximal de sources de lumières qui auront leur lumière rendue sur des pixels individuels.\n- Synchronisation Verticale - Active la synchronisation avec la fréquence de rafraîchissement de votre appareil d'affichage.
+REJOINDRE LA PARTIE
+POST\nTRAITEMENT
 CRÉDITS
 QUITTER LE JEU
 Mode plein écran
-PARAMÈTRES ÉCRAN
+PARAMÈTRES D'AFFICHAGE
 CORRECTION COULEUR
 Entrez l'adresse IP...
-RÉSOLUTION DE L'ÉCRAN
+RÉSOLUTION D'AFFICHAGE
 JOUER
-Lumières par pixel
-TYPES D'OMBRES
+NOMBRE DE LUMIÈRES SUR PIXELS
+TYPE D'OMBRE
 OMBRES
-<size=36>CRÉER UNE PARTIE</size>
-Modification des paramètres de post-traitement.\nCes paramètres n'affectent pas la performance.\nLaisser la valeur par défaut est recommandé.
-Rendu de la lumière :\nLorsqu'il est OFF : cela rend le jeu moins beau (et réduit fortement la visibilité), il est seulement recommandé de le désactiver pour les petites configurations.
-Synchronisation verticale
-CONNEXION
-GRAPHISMES
-Changer les préférences des ombres. Réduire cette valeur peut augmenter la fluidité du jeu.
+CRÉER UNE PARTIE
+Modifiez les paramètres post-traitement. Ces paramètres n'affecteront généralement pas la performance du jeu, laisser les valeurs par défaut est conseillé.
+Mode de rendu de lumière:\nSi vous désactivez ceci, la qualité des graphismes sera énormément baissée. Désactivez-le seulement si votre configuration n'est pas assez puissante.
+SYNCHRONISATION VERTICALE
+SE CONNECTER
+PARAMÈTRES DE QUALITÉ
+Modifiez les paramètres d'ombres. Des valeurs plus faibles pourraient augmenter la fluidité du jeu.
 MENU PRINCIPAL
-MODE DE RENDU DE LA LUMIÈRE
+MODE DE RENDU DE LUMIÈRE
 FLOU CINÉTIQUE
 DISTANCE DES OMBRES
 DÉTAILS
-3. SCP-914
+3. S.C.P.-914
 TUTORIELS
 ATTENTION
-Voir les serveurs disponibles
-Ne plus voir ce message
-De quelle manière voulez-vous vous connecter ?
+Parcourez les serveurs disponibles
+Ne plus montrer ceci
+Comment souhaiterez-vous vous connecter ?
 LISTE DES SERVEURS
 OK
-TROUVER UN SERVEUR
-2. L'utilisation des armes
-Nous utilisons discord comme un forum, aucune installation n’est requise.\n(Cliquez sur le logo pour rejoindre)
-Par défaut, le serveur est défini sur votre réseau local.\nVos amis aurons besoin de votre IP publique pour se connecter.\nSi vous voulez créer un serveur public, ouvrez LocalAdmin.exe et suivez les instructions.\nSi vous avez des questions, vous pouvez contacter notre support technique (lien au menu principal).
+TROUVER UNE PARTIE
+2. Utiliser des armes
+Nous utilisons Discord en tant que forum. Pas besoin d'installation.\n(cliquez sur le logo pour rejoindre)
+Par défaut, le serveur s'initialisera sur le réseau local.\nVos amis auront besoin de votre adresse IP directe pour qu'ils se connectent.\nSi vous voulez metter en place un serveur public, exécutez LocalAdmin.exe et référez-vous aux instructions.\nSi vous avez n'importe quelle question, veuillez contacter notre support technique (lien dans le menu principal)
 1. Les bases
-Le jeu est toujours en bêta.\nVous pouvez rencontrer des bugs en jeu ainsi que des bugs de connexion.\nL'état actuel ne reflète pas la version finale.
-4. (plus de tutoriels plus tard)
+Ce jeu est toujours à l'heure actuelle en bêta publique.\nVous pourriez rencontrer des problèmes de connexion et plein d'autres bugs.\nL'état actuel ne représentera pas la version finale du jeu.
+4. (plus de tutoriels à suivre...)
 CONNEXION DIRECTE
 SUPPORT TECHNIQUE / FORUM
 VOLUME DU SON
-Entrez l'adresse IP spécifique du serveur.
+Entrez l'adresse IP du serveur.
 TÉLÉCHARGEMENT DES DONNÉES
 AUCUN SERVEUR DISPONIBLE
-APPUYEZ SUR ÉCHAP POUR FERMER / ANNULER
-<size=50>CONTRÔLES</size>
-QUANTITÉ DE SANG MAX
-Limite IPS
-<size=20>La limite des IPS ne fonctionne pas si la V-Sync est active</size>
-Réglages par défaut
-Nous utilisons les Discussions Steam comme un forum. (Cliquez sur le logo pour ouvrir ce forum)
+APPUYEZ SUR ECHAP POUR FERMER / ANNULER
+AFFECTATION DES TOUCHES
+QUANTITÉE MAXIMALE DE SANG
+Limite d'IPS
+La limitation des IPS ne fonctionne pas lorsque la synchro. verticale est activée !
+Réinitialiser
+Nous utilisons les Discussions Steam en tant que forum. (Cliquez sur le logo en bas pour ouvrir le forum)
 PARAMÈTRES AUDIO
-VOLUME GÉNÉRAL
+VOLUME PRINCIPAL
 MUSIQUE DU MENU
-TCHAT VOCAL
-EFFETS SONORES
-OPTIONS DU JEU
-FONDU RAPIDE DE L'INTRO
-Le texte d'introduction des classes (en jeu) disparaîtront plus rapidement.
-<size=40>SCP-079 - OPTION VISION AVANCÉE</size>
-Appuyez une fois pour passer d'un mode à l'autre.
-SCP-079 - POST-TRAITEMENT
-Désactivé, les effets de caméra seront fortement réduits.
-MOUVEMENTS DE TÊTE
-Active les mouvements de caméra.
-OPTION POUR COURIR
-Permet de courir en permanence ou non au lieu d'appuyer sur le bouton.
-<size=40>BARRE DE VIE ARTIFICIELLE SÉPARÉE</size>
-Donne à la vie artificielle sa propre barre au lieu d'un overlay.
-Nos traductions sont open-source sur GitHub!\nEnvie d'aider ? Cliquez-ici pour accéder au dossier.
+DISCUSSION VOCALE
+SONS D'EFFETS
+OPTIONS DE JOUABILITÉ
+FONDU RAPIDE DE L'INTRO.
+Le texte d'introduction de votre classe disparaîtra bien plus rapidement.
+S.C.P.-079 - BASCULATION DE MODE DE VISION
+Appuyez qu'une seule fois pour basculer entre les deux modes de caméra.
+S.C.P.-079 - POST-TRAITEMENT
+Les effets de caméra seront énormément réduits si désactivé.
+MOUVEMENT DE TÊTE
+Active l'effet de mouvement à la première personne.
+BASCULATION DU SPRINT
+Le sprint se basculera plutôt que de devoir être maintenu.
+BARRE DE PV ARTIFICIELLE INDÉPENDANTE
+Donne aux PV artificiels leur propre barre, plutôt que de se superposer.
+Nos traductions sont en source-ouverte sur GitHub !\nVous souhaitez y contribuer ? Cliquez ici pour accéder au dépôt.
 RICH PRESENCE
-Si activé, votre statut sera affiché sur Discord/Steam.
-<size=40>AFFICHAGE DES POINTS DE VIE EXACTS</size>
-Affiche la valeur exacte des points de vie au lieu des pourcentages.
-ENTRÉE PUBLIQUE
-Si activé, vos amis Steam peuvent vous rejoindre sans permission.
-CACHER L'IP
-Si activé, l'adresse IP n'apparaîtra pas dans la console client.
+Votre statut sera affiché sur Discord et Steam si activé.
+AFFICHER LA VALEUR EXACTE DES PV
+Affiche la valeur exacte des PV, au lieu d'un pourcentage.
+SALON PUBLIC
+Si activé, vos amis Steam pourront vous rejoindre sans votre permission.
+MASQUER L'IP
+Toute adresse IP dans la console ne sera pas affichée si activée.
+BASCULATION DE LA FOUILLE
+Ramasser un objet ne nécessitera plus de maintenir la touche ; rappuyez une nouvelle fois pour annuler.

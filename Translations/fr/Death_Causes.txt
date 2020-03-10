@@ -1,20 +1,22 @@
-Vaporisé par une explosion.
-Les déchirures aux jambes laissent penser qu'une chute a été fatale.
-Utilisé comme sacrifice pour reconfiner SCP-106.
-Décédé dans la dimension de poche de SCP-106.
-Ce n'est plus que des restes de SCP-106.
-Électrocuté.
-Écrasé par une structure lourde.
-Il y a beaucoup de blessures par balles sur le corps, c'est probablement du [ammotype] qui a été utilisé.
-Nuque brisée à la base du crâne.
-N'a pas survécu à sa rencontre avec SCP-106.
-Soigné de la peste.
-La cause de la mort est inconnue.
-Il s'agit du corps d'un [class] nommé <b>[user]</b> !\n\nCause de la mort : [cause]
-Mis en pièces par SCP-096.
-Morsure puissante à la base du crâne.
-Rongé par une substance fortement corrosive.
-Le corps a été partiellement brûlé par une explosion.
-La peau pâle et le sang coulant de la bouche suggèrent qu'une hémorragie interne a été causée par l'inhalation d'une substance.
-Reconfiné par un humain.
-Un impact et des égratignures sont présents sur le corps.
+Vaporisé par l'Ogive Alpha.
+Les jambes et pieds brisés suggèrent un traumatisme fatal provoqué par une chute.
+Les signes d'un traumatisme sévère aux deux fémurs suggèrent une mort causée par un choc circulatoire.
+Décomposé dans la Dimension de Poche.
+Ce n'est que des restes de S.C.P.-106.
+Brûlures électriques sévères.
+Traumatisme brutal fatal ; le cadavre est sévèrement mutilé et a été réduit en purée.
+Blessures par balles de type [ammotype].
+Fracture des cervicales à la base du crâne.
+De grosses quantitées de tissu décomposé sont présents sur le cadavre.
+Arrêt brusque des fonctions vitales. Cause indéterminée.
+Cause du décès inconnue.
+C'est le corps de <b>[user]</b> - qui fut [class] !\n\nCause du décès : [cause]
+Lacérations massives et perte de sang excessive.
+De larges, profondes morsures sur le cadavre peuvent être observées.
+Rongé par une substance hautement corrosive.
+Des shrapnels et des brûlures sévères causées par une explosion sont présents.
+La peau pâle et le sang coulant de la bouche suggère qu'une hémorragie interne a été causée par l'ingestion d'une substance.
+Reconfiné.
+Traumatisme brutal. Des légères égratinures sont d'ailleurs présentes sur le cadavre.
+Perte de sang sévère causée par de profondes blessures.
+La peau maladive, jaune et une odeur rance laissent suggèrer une intoxication létale.

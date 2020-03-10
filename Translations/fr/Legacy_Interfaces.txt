@@ -1,18 +1,18 @@
-VOUS POUVEZ DONNER DES ORDRES
+DONNEZ DES ORDRES
 SUIVEZ SES ORDRES
-MÊME NIVEAU D'ACCRÉDITATION
-Classe-D échappés
-Scientifiques survivants
-Victimes des SCPs
-SCPs tués
-ogive Alpha
-Activée
-Désactivée
-La prochaine partie débutera dans [time] secondes.
+MÊME RANG
+Personnels Classe-D enfuis
+Scientifiques ayant survécus
+Tués par des S.C.P.
+Instances S.C.P. éliminées
+Ogive Alpha
+Enclenchée
+Inutilisée
+La prochaine partie va démarrer dans [time] secondes.
 CAPACITÉ SPÉCIALE
-CRÉER UN PORTAIL
-UTILISER LE PORTAIL
+CRÉER UN GOUFFRE
+UTILISER LE GOUFFRE
 VOUS ÊTES MORT
-Vous avez été tué par :
-en tant que :
+Vous avez été tué par
+en tant que
 Passif

@@ -1,35 +1,36 @@
-VOLUME DES VOIX
-OUI
-<size=30>FORCER LE DÉMARRAGE</size>
-PROCÉDURE DE RE-CONFINEMENT\nDE SCP-106
+VOLUME DE LA VOIX
+Oui
+FORCER LE DÉMARRAGE
+FORCER PROCÈDURE DE\nRE-CONFINEMENT S.C.P.-106
 Inverser l'axe Y
 RÉSUMÉ
 Annuler
 I N V E N T A I R E
 LUMINOSITÉ
 PARAMÈTRES
-<size=70>DÉCONNEXION</size>
+DÉCONNEXION
 L'OGIVE ALPHA EST DÉSACTIVÉE
 ACCÈS REFUSÉ
-CHAT VOCAL
-INVENTAIRE PLEIN
-SENSIBILITÉ SOURIS
+DISCUSSION VOCALE
+INVENTAIRE SURCHARGÉ
+SENSIBILITÉ DE LA SOURIS
 PIRATAGE
-RAMASSER...
-L'augmentation de la luminosité <b>diminue l'immersion</b> du jeu.\n<b>Il est recommandé de garder la valeur par défaut.</b>
-[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Le verrouillage d'une porte utilise votre compétence spéciale.
-PORTE VERROUILLÉE PAR SCP-079
+RAMASSAGE...
+Augmenter la luminosité <b>diminue fortement l'immersion </b>dans le jeu.\nEssayez de règler cette valeur sur la plus basse possible.\n<b>La valeur par défaut est néanmoins recommandée.</b>
+[1] OUVRIR/FERMER CETTE PORTE\n[2] VERROUILLER CETTE PORTE*\n\n*Verrouiller cette porte utilise la capacité spéciale
+PORTE VERROUILLÉE PAR S.C.P.-079
 Mode plein écran
-Êtes-vous sûr de vouloir quitter ce serveur ?
-Options de base : pour modifier autre chose, allez au menu principal.
-EN ATTENTE DE JOUEURS\n
+Êtes vous sûr de vouloir quitter le serveur ?
+Options simples. La liste complète des paramètres est dans le menu.
+EN ATTENTE DE JOUEURS
 RÉSUMÉ
 CONTINUER
 VOLUME PRINCIPAL
-EN LIGNE
-Vous avez rejoint la FIM Epsilon-11.
-Vous avez rejoint l'Insurrection du Chaos.
+connecté
+Vous vous êtes échappé en tant que Scientifique et vous avez rejoint les unités des F.I.M.
+Vous vous êtes échappé en tant que Classe-D et vous avez rejoint l'Insurrection du Chaos.
 VOUS ÊTES
-Vous vous êtes échappé en [escape_minutes] minutes et [escape_seconds] secondes
-Attendez [time] pour pouvoir réutiliser [item].
-APPUYEZ SUR <color=white><b>F1</b></color> POUR PLUS D'INFORMATIONS
+Temps d'échappement : [escape_minutes] minute(s) et [escape_seconds] seconde(s)
+Attendez [time] avant de pouvoir réutiliser [item].
+Appuyez sur <color=yellow><b>F1</b></color> pour plus d'informations.
+Vous avez été menotté\n<size=40>suivez tout ordre ou demandez de l'aide à vos co-équipiers</size>

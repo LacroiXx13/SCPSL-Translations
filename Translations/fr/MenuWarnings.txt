@@ -1,4 +1,4 @@
 ATTENTION
 OK
-Les <b>Intel Graphics</b> détectés <b>ne sont pas supportés</b>.\nIl est <b>recommandé</b> d'utiliser une carte graphique <b>différente</b>.\nLe jeu peu <b>souvent se fermer (crash)</b> avec le système actuel.
-Une mise à jour très importante nécessaire pour le tchat vocal n'a pas été trouvée. Veuillez vérifier que votre système d'exploitation est à jour, autrement, le jeu peut ne pas fonctionner comme prévu. Si ce problème persiste, veuillez contacter le support technique pour plus d'assistance.
+Les <b>Graphismes Intel</b> sont <b>incompatibles</b> avec le jeu./nIl est <b>recommandé</b> d'utiliser une carte graphique <b>dédiée</b>./nLe jeu risque de <b>fréquemment se planter</b> avec la configuration actuelle.
+Une mise à jour importante requise pour la discussion vocale est introuvable. Assurez-vous que Windows est entièrement à jour, sinon le jeu risque de ne pas fonctionner correctement. Si ce problème persiste, veuillez contacter notre support technique.

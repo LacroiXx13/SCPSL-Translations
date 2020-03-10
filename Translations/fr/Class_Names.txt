@@ -1,18 +1,18 @@
-SCP-173
-Classe-D
+S.C.P.-173
+Personnel Classe-D
 Spectateur
-SCP-106
-Scientifique Nine-Tailed Fox
-SCP-049
+S.C.P.-106
+Scientifique du Renard aux Neuf-Queues
+S.C.P.-049
 Scientifique
-SCP-079
-Insurrection du Chaos
-SCP-096
-SCP-049-2
-Lieutenant Nine-Tailed Fox
-Commandant Nine-Tailed Fox
-Cadet Nine-Tailed Fox
+S.C.P.-079
+Insurgé du Chaos
+S.C.P.-096
+S.C.P.-049-2
+Lieutenant du Renard aux Neuf-Queues
+Commandant du Renard aux Neuf-Queues
+Cadet du Renard aux Neuf-Queues
 TUTORIEL
-Garde du site
-SCP-939-53
-SCP-939-89
+Garde du Site
+S.C.P.-939-53
+S.C.P.-939-89

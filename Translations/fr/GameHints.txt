@@ -1,0 +1,6 @@
+﻿<color=red>Accès refusé</color>
+Limite de <color=yellow>munitions [type]</color> atteinte (<color=yellow>[max_type_count] balles</color>)
+Limite de <color=yellow>munitions [type]</color> <b>déjà</b> atteinte (<color=yellow>[max_type_count] balles</color>)
+Limite de <color=yellow>[type]</color> atteinte (<color=yellow>[max_type_count] objet(s)</color>)
+Limite de <color=yellow>[type]</color> <b>déjà</b> atteinte (<color=yellow>[max_type_count] objet(s)</color>)
+Seul <color=yellow>[max_item_count] objets</color> peuvent être portés.
